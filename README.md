@@ -18,5 +18,5 @@ You can either run the notebook by typing `jupyter notebook` into terminal when 
 [Andrew Trask's blog on Back Propogation](http://iamtrask.github.io/2015/07/12/basic-python-network/). I've merely created a wrapper to get people started.
 [Back Propogation by 3blue1brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 
-''demo.py'' covers the understanding of backpropogation how it works.
-''example.py'' is  implement of backpropogation from scratch.
+`demo.py` covers the understanding of backpropogation how it works.
+`example.py` is  implement of backpropogation from scratch.
